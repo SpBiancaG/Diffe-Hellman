@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Diffe-Hellman\bin\Debug\net6.0\Diffe-Hellman.exe
+C:\Users\User\Desktop\Diffe-Hellman\bin\Debug\net6.0\Diffe-Hellman.deps.json
+C:\Users\User\Desktop\Diffe-Hellman\bin\Debug\net6.0\Diffe-Hellman.runtimeconfig.json
+C:\Users\User\Desktop\Diffe-Hellman\bin\Debug\net6.0\Diffe-Hellman.dll
+C:\Users\User\Desktop\Diffe-Hellman\bin\Debug\net6.0\Diffe-Hellman.pdb
+C:\Users\User\Desktop\Diffe-Hellman\obj\Debug\net6.0\Diffe-Hellman.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Diffe-Hellman\obj\Debug\net6.0\Diffe-Hellman.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Diffe-Hellman\obj\Debug\net6.0\Diffe-Hellman.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Diffe-Hellman\obj\Debug\net6.0\Diffe-Hellman.AssemblyInfo.cs
+C:\Users\User\Desktop\Diffe-Hellman\obj\Debug\net6.0\Diffe-Hellman.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Diffe-Hellman\obj\Debug\net6.0\Diffe-Hellman.dll
+C:\Users\User\Desktop\Diffe-Hellman\obj\Debug\net6.0\refint\Diffe-Hellman.dll
+C:\Users\User\Desktop\Diffe-Hellman\obj\Debug\net6.0\Diffe-Hellman.pdb
+C:\Users\User\Desktop\Diffe-Hellman\obj\Debug\net6.0\Diffe-Hellman.genruntimeconfig.cache
+C:\Users\User\Desktop\Diffe-Hellman\obj\Debug\net6.0\ref\Diffe-Hellman.dll
